@@ -1,0 +1,10 @@
+package Entity;
+
+public class Restriction {
+	
+	private boolean isAlcoholAllowed;
+	private boolean isNonvegAllowed;
+	
+	
+
+}

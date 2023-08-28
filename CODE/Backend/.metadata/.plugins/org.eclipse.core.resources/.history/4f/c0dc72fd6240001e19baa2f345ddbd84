@@ -1,0 +1,24 @@
+package Entity;
+
+public class PropertyFeatures {
+	
+	private Restrictions restriction;
+	private boolean security;
+	private FurnishingStatus status;
+	
+	
+	public PropertyFeatures() {
+		super();
+	}
+
+
+	public PropertyFeatures(Restrictions restriction, boolean security, FurnishingStatus status) {
+		super();
+		this.restriction = restriction;
+		this.security = security;
+		this.status = status;
+	}
+	
+	
+
+}

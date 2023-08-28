@@ -1,0 +1,11 @@
+package Entity;
+
+public class Property {
+	
+	private int id;
+	private Address address;
+	private String addLine1;
+	private String addLine2;
+	private 
+
+}

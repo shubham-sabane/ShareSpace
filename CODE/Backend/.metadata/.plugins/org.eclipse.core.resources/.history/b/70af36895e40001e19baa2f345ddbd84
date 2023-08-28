@@ -1,0 +1,10 @@
+package Entity;
+
+public class PropertyFeatures {
+	
+	private boolean isAlcoholAllowed;
+	private boolean isNonvegAllowed;
+	
+	
+
+}

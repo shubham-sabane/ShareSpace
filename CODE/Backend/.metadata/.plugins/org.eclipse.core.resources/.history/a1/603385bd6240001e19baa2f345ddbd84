@@ -1,0 +1,9 @@
+package Entity;
+
+public class PropertyFeatures {
+	
+	private Restrictions restriction;
+	private boolean security;
+	private PropertyStatus status;
+
+}
