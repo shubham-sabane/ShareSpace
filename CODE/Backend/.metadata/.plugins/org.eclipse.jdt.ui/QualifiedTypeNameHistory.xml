@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Entity.User"/>
-    <fullyQualifiedTypeName name="Entity.Shortlisted"/>
-    <fullyQualifiedTypeName name="Entity.Matches"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
-    <fullyQualifiedTypeName name="Entity.Property"/>
-</qualifiedTypeNameHistroy>
